@@ -1,0 +1,32 @@
+{
+  "name": "factorial-feature",
+  "version": "1.0.0",
+  "description": "The Factorial Feature program, a test-driven developed program, computes the factorial of a number.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellabrador/js-factorial_feature.git"
+  },
+  "keywords": [
+    "codecademy-pro",
+    "javacript",
+    "tdd",
+    "mocha"
+  ],
+  "author": "Daniel Labrador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniellabrador/js-factorial_feature/issues"
+  },
+  "homepage": "https://github.com/daniellabrador/js-factorial_feature#readme"
+}
